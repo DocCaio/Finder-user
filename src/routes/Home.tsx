@@ -1,9 +1,11 @@
-import React from "react";
+import Search from "../components/Seatch";
 
 
 const Home = () => {
     return (
-        <div>ola</div>
+        <div>
+            <Search/>
+        </div>
     )
 }
 
