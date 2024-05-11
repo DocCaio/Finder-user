@@ -1,11 +1,31 @@
-# React + TypeScript + Vite
+# Finder-Uer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Techs
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,ts,react,npm)](https://skillicons.dev)
+
+
+  # :hammer: Project features
+
+- `functionality `:
+- Responsive.
+- Pesquise seu usuario do guithub
+- Vejas seus projtos com ias estrelas
+  
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20finished&color=GREEN&style=for-the-badge)
+
+### Print
+  <img src="#" alt="Minha Figura">
+
+  ```js
+  ### npm create vite@latest
+  ### npm i react-router-dom react-icons
+  ### npm run dev
+  
+
+```
+
 
 ## Expanding the ESLint configuration
 
