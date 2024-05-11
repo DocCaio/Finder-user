@@ -4,6 +4,7 @@ import { BsSearch } from "react-icons/bs";
 const Search = () => {
     return (
         <div>
+          
       <h2>Busque pelo seu usuário:</h2>
       <p>Veja seus repositórios</p>
       <div>
