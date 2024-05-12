@@ -18,10 +18,10 @@
 ### Print
   <img src="#" alt="Minha Figura">
 
-  ```js
-  ### npm create vite@latest
-  ### npm i react-router-dom react-icons
-  ### npm run dev
+  ```mk
+   npm create vite@latest
+   npm i react-router-dom react-icons
+   npm run dev
   
 
 ```
