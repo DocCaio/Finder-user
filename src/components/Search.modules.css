@@ -13,3 +13,22 @@
 .search p {
     color: #9da5d1;
 }
+
+.search_container {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.search_container input,
+.search_container button {
+    padding: 0.6rem;
+    border-radius: 3px;
+    border: none;
+    color: #2b3566;
+} 
+
+.search_container button {
+    background-color: #0e1129;
+    cursor: pointer;
+}
+
