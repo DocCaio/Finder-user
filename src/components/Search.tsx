@@ -3,6 +3,8 @@ type SearchProps = {
   
 };
 
+import classes from './Search.modules.css';
+
 import { useState } from "react";
 import { BsSearch } from "react-icons/bs";
 
@@ -11,7 +13,7 @@ const Search = ({loadUser}: SearchProps) => {
 
   const [userName , setUserName] = useState("");
     return (
-        <div>
+        <div className={classes.search}>
           
       <h2>Busque pelo seu usuário:</h2>
       <p>Veja seus repositórios</p>
