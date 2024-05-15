@@ -3,7 +3,7 @@ const Error = () => {
     return (
         <div>
 
-            <p></p>
+            <p>Usuario não encontrado !</p>
             
             </div>
     )
