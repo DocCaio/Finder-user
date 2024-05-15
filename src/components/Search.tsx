@@ -3,7 +3,7 @@ type SearchProps = {
   
 };
 
-import classes from './Search.modules.css';
+import classes from './Search.module.css';
 
 import { useState, KeyboardEvent } from "react";
 import { BsSearch } from "react-icons/bs";

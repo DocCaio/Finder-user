@@ -9,7 +9,7 @@ function App() {
   return (
     <div className={classes.app}>
       <Outlet/>
-      <h1>Ola</h1>
+      <h1>Space</h1>
       
       </div>
   )
