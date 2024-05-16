@@ -1,21 +1,20 @@
 * {
-  padding: 0;
   margin: 0;
+  padding: 0;
   box-sizing: border-box;
   font-family: "Inter", sans-serif;
   color: #fff;
 }
 
 body {
-  background-image: url('./assets/Bg-body.png');
-  background-repeat: no-repeat;
+  background-image: url('./components/assets/Bg-body.png');
+  width: 100%;    
   padding: 2rem;
 }
 
 p {
   text-align: center;
 }
-
 
 a {
   text-decoration: none;
