@@ -11,12 +11,12 @@
 - `functionality `:
 - Responsive.
 - Pesquise seu usuario do guithub
-- Vejas seus projtos com ias estrelas
+- Vejas seus melhores projetos
   
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20finished&color=GREEN&style=for-the-badge)
 
 ### Print
-  <img src="#" alt="Minha Figura">
+  <img src="https://github.com/DocCaio/Finder-user/blob/main/src/assets/screenshot.png" alt="Minha Figura">
 
   ```mk
    npm create vite@latest
