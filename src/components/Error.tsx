@@ -1,9 +1,10 @@
-
+import image from '../assets/blue.png';
+import './Error.css'
 const Error = () => {
     return (
-        <div>
-
-            <p>Usuario não encontrado !</p>
+        <div className="blue">
+          <img src={image}/>
+          {/*<p>Usuario não encontrado !</p>*/}
             
             </div>
     )
