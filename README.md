@@ -3,7 +3,7 @@
 ## Techs
 
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,ts,react,npm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,ts,react,vite)](https://skillicons.dev)
 
 
   # :hammer: Project features
