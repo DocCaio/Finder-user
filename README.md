@@ -22,6 +22,7 @@
    npm create vite@latest
    npm i react-router-dom react-icons
    npm run dev
+   npm update react-icons
   
 
 ```

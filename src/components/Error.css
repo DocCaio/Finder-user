@@ -1,5 +1,11 @@
-
+.error p {
+    background-color: #644aff;
+    border-radius: 10px;
+    padding: 0.2rem;
+}
 .error img { 
     padding: 2rem;      
     
 }
+
+
