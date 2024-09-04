@@ -1,4 +1,4 @@
-# Finder-Uer
+# Finder-User
 
 ## Techs
 
